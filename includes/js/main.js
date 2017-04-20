@@ -18,6 +18,22 @@ function topFunction() {
 }
 
 
+function myFunction() {
+    alert("Coming Soon!");
+}
+
+
+
+
+/*portfolio button
+$(document).ready(function() {
+function portfolioClick() {
+    $(".btn-portfolio").click(function() {
+       alert("Coming Soon!");
+       */
+
+
+
 /*//gallery photo hover
 
 function galleryOpacity() {
@@ -43,3 +59,4 @@ function buttonClick () {
 };
 
 */
+/*/*/
