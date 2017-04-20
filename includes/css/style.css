@@ -194,6 +194,10 @@
 	align-items: center;
 }
 
+.icon:hover {
+	opacity: 0.5;
+}
+
 .contact {
 	margin-top: 19%;
 	margin-left: 32%;
