@@ -1,0 +1,31 @@
+@font-face {
+	font-family: 'TravelingTypewriter';
+	src: url('./TravelingTypewriter.eot');
+	src: local('TravelingTypewriter'), url('./TravelingTypewriter.woff') format('woff'), url('./TravelingTypewriter.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_1415">Text with this font applied</p> */
+.fontsforweb_fontid_1415 {
+	font-family: 'TravelingTypewriter' !important;
+}
+
+@font-face {
+	font-family: 'typwrng';
+	src: url('./typwrng.eot');
+	src: local('typwrng'), url('./typwrng.woff') format('woff'), url('./typwrng.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_804">Text with this font applied</p> */
+.fontsforweb_fontid_804 {
+	font-family: 'typwrng' !important;
+}
+
+@font-face {
+	font-family: 'Outwrite';
+	src: url('./Outwrite.eot');
+	src: local('Outwrite'), url('./Outwrite.woff') format('woff'), url('./Outwrite.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_803">Text with this font applied</p> */
+.fontsforweb_fontid_803 {
+	font-family: 'Outwrite' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
