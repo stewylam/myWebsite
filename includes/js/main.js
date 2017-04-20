@@ -1,3 +1,5 @@
+// button for the top
+// (sorry niet zelf geschreven)
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
 
@@ -14,3 +16,30 @@ function topFunction() {
     document.body.scrollTop = 0; // For Chrome, Safari and Opera 
     document.documentElement.scrollTop = 0; // For IE and Firefox
 }
+
+
+/*//gallery photo hover
+
+function galleryOpacity() {
+    $(".photo").mouseover(function() {
+        $(this).animate({
+            opacity: 0.2}, 100);
+        });
+}
+*/
+// portfolio button
+/*
+function buttonClick () {
+
+}*/
+
+
+
+/*function buttonClick () {
+    $(".btn-portfolio").mouseover( function(event) {
+        $(this)
+    });
+
+};
+
+*/
